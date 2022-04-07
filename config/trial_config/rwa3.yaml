@@ -62,7 +62,7 @@ orders:
     announcement_condition: wanted_products
     announcement_condition_value: 1
     kitting:
-      shipment_count: 2
+      shipment_count: 1
       agvs: [agv2]
       destinations: [as2]
       products:
